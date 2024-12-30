@@ -5,7 +5,7 @@ from matplotlib import pyplot as plt
 from scipy.optimize import curve_fit 
 
 
-##python -m streamlit run C:\Users\angel\Downloads\app.py --theme.primaryColor="#ffe3e1" --theme.backgroundColor="#fff5e4" --theme.secondaryBackgroundColor="#ecdfeb" --theme.textColor="#ff9494" --theme.font="monospace"     
+##python -m streamlit run C:\Users\angel\Documents\GitHub\Data-Visualization-Website\app.py --theme.primaryColor="#ffe3e1" --theme.backgroundColor="#fff5e4" --theme.secondaryBackgroundColor="#ecdfeb" --theme.textColor="#ff9494" --theme.font="monospace"     
 
 with st.sidebar: 
     option = st.selectbox(
